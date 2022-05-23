@@ -1,0 +1,12 @@
+class Parsemethod
+{
+  public static void main(String args[])
+  {
+  int a=Integer.parseInt(args[1]);		//"10" convert to 10 and it will store in a
+  int b=Integer.parseInt(args[0]);		//"20" convert to 20 and it will store in b
+   System.out.println(a+1);
+   System.out.println(b+1);
+ 
+ 
+  }
+}
